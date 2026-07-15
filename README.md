@@ -166,10 +166,6 @@ This project helped in understanding:
 
 B.Tech Computer Science & Engineering (AI & ML)
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINK
-
 ---
 
 ## ⭐ If you like this project
